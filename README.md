@@ -28,7 +28,7 @@ I am Philipp. I automate some stuff.
 
 - Here on GitHub
 - [LinkedIn](https://www.linkedin.com/in/philipp-maier-801b54138)
-- [Reddit](https://www.reddit.com/user/philmph) (i read /r/PowerShell a lot)
+- [Reddit](https://www.reddit.com/user/philmphdev) (i read /r/PowerShell a lot)
 - [Twitter](https://twitter.com/philmph)
 
 ### 🏗️ My sites
