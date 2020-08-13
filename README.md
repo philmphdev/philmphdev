@@ -6,10 +6,10 @@ I am Philipp. I automate some stuff.
 
 - Climbing
 - Coding
-- Darkmodes
 - Eating
 - Formatting code / snippets
 - Learning new technologies
+- Software with dark mode
 - Sorting things by alphabet
 
 ### 🔭 I’m currently working on
