@@ -1,21 +1,21 @@
-### 👹 About me
+## 👹 About me
 
 I am Philipp. I automate some stuff.
 
 ### 👍 What i like
 
 - Climbing
-- Code of all kinds
+- Coding
+- Darkmodes
 - Eating
 - Formatting code / snippets
 - Learning new technologies
-- Software with darkmodes
 - Sorting things by alphabet
 
 ### 🔭 I’m currently working on
 
 - Getting more into GitHub and collaboration
-- Standardizing my [PowerShell Template](https://github.com/philmphdev/Plaster-Templates) with Plaster
+- Standardizing my [PowerShell Template](https://github.com/philmph/Plaster-Templates) with Plaster
 
 ### 🌱 I’m currently learning
 
@@ -29,7 +29,7 @@ I am Philipp. I automate some stuff.
 
 - Here on GitHub
 - [LinkedIn](https://www.linkedin.com/in/philipp-maier-801b54138)
-- [Reddit](https://www.reddit.com/user/philmphdev) (I read /r/PowerShell a lot)
+- [Stack Overflow](https://stackoverflow.com/users/14100666/philmph)
 - [Twitter](https://twitter.com/philmph)
 
 ### 🏗️ My sites
