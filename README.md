@@ -15,7 +15,7 @@ I am Philipp. I automate some stuff.
 ### 🔭 I’m currently working on
 
 - Getting more into GitHub and collaboration
-- Standardizing my [PowerShell Template](https://github.com/philmph/Plaster-Templates) with Plaster
+- Improving my [Plaster](https://github.com/PowerShellOrg/Plaster) template project [Frame](https://github.com/philmph/Frame)
 
 ### 🌱 I’m currently learning
 
