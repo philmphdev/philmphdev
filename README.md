@@ -22,8 +22,8 @@ I am Philipp. I automate some stuff.
 - 10 Finger typing
 - [Book ProGit](https://git-scm.com/book/en/v2)
 - [Book The Pester Book](https://leanpub.com/pesterbook)
-- [Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
-- [Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+- [AZ-400 - Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
+- [AZ-104 - Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 
 ### 📫 How to reach me
 
