@@ -19,12 +19,12 @@ I am Philipp. I automate some stuff.
 
 ### 🌱 I’m currently learning
 
-- 10 Finger typing
-- [Professional Scrum Master I](https://www.scrum.org/professional-scrum-master-i-certification)
-- [Book ProGit](https://git-scm.com/book/en/v2)
-- [Book The Pester Book](https://leanpub.com/pesterbook)
-- [AZ-400 - Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
-- [AZ-104 - Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+- [x] 10 Finger typing
+- [x] [Professional Scrum Master I](https://www.scrum.org/professional-scrum-master-i-certification)
+- [ ] [AZ-104 - Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+- [ ] [Book ProGit](https://git-scm.com/book/en/v2)
+- [ ] [Book The Pester Book](https://leanpub.com/pesterbook)
+- [ ] [AZ-400 - Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
 
 ### 📫 How to reach me
 
