@@ -15,19 +15,20 @@ I am Philipp - I automate stuff.
 ### 🔭 I’m currently working on
 
 - Learning and working with Ansible
+- My Project [Frame](https://github.com/philmph/Frame)
 - Getting more into GitHub and collaboration
 
 ### 🌱 I’m currently learning
 
 - [x] 10 Finger typing
 - [x] [Professional Scrum Master I](https://www.scrum.org/professional-scrum-master-i-certification)
-- [ ] VIM in VS Code
+- [x] VIM in VS Code
 - [ ] [Book Ansible: Up and Running](https://www.oreilly.com/library/view/ansible-up-and/9781491979792/)
+- [ ] [AZ-104 - Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+- [ ] [AZ-400 - Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
 - [ ] [Book ProGit](https://git-scm.com/book/en/v2)
 - [ ] [Book The Pester Book](https://leanpub.com/pesterbook)
 - [ ] [Book The DevOps Handbook](https://www.oreilly.com/library/view/the-devops-handbook/9781457191381/)
-- [ ] [AZ-104 - Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
-- [ ] [AZ-400 - Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
 
 ### 📫 How to reach me
 
