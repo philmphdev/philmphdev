@@ -12,8 +12,6 @@ I am Philipp - I automate stuff.
 ## 🔭 I’m currently working on
 
 - [CloudSkills.io Python 10 Week Course](https://cloudskills.io/courses/python)
-- Learning and using [Pester](https://github.com/pester/Pester)
-- Building my own Logging Module for PowerShell with CI/CD integrations
 
 ## 🌱 My learning To-Do list
 
